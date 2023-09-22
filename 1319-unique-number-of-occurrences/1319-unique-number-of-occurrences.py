@@ -12,7 +12,5 @@ class Solution:
         for i in freq:
             lis.append(freq[i])
         print(lis)
-        if len(lis) == len(list(set(lis))):
-            return True
-        else:
-            return False
+        return len(lis) == len(list(set(lis)))
+            

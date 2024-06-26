@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Array
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/prathna06/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/prathna06/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/prathna06/Leetcode-Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 # Dynamic Programming
@@ -41,3 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/prathna06/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
+# Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/prathna06/Leetcode-Solutions/tree/master/0605-can-place-flowers) |

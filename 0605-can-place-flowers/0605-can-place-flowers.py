@@ -1,39 +1,8 @@
 class Solution:
     def canPlaceFlowers(self, flowerbed: List[int], n: int) -> bool:
-        counter =0
-        i=0
-        while(i<len(flowerbed)):
-            if flowerbed[i] != 1 :
-                if i != len(flowerbed)-1:
-                    if flowerbed[i+1] != 1:
-                        if i > 0  and flowerbed[i-1] != 1:
-                            counter+=1
-                            i +=2
-                        elif i == 0:
-                            counter +=1
-                            i +=2
-                        
-                        else:
-                            i +=1
-                    else:
-                        i +=1
-                else:
-                    if i > 0  and flowerbed[i-1] != 1:
-                        counter+=1
-                        i +=2
-                    elif i == 0:
-                        counter +=1
-                        i +=2
-                    
-                    else:
-                        i +=1
-
-
-            else:
-                i +=1
-
-        if n <= counter:
-            return True
-        else:
-            return False
-        
+        garden = [0] + flowerbed + [0]
+        for i in range(1,len(garden)-1):
+            if garden[i-1] ==0 and garden[i] ==0 and garden[i+1] ==0:
+                garden[i] =1
+                n-=1
+        return n<=0

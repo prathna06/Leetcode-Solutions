@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # String
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/prathna06/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1777-determine-if-two-strings-are-close](https://github.com/prathna06/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 # Sorting
 |  |
@@ -30,3 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/prathna06/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
+# Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/prathna06/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |

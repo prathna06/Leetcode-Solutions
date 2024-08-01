@@ -48,3 +48,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/prathna06/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/prathna06/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
+## String
+|  |
+| ------- |
+| [2727-number-of-senior-citizens](https://github.com/prathna06/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
+<!---LeetCode Topics End-->

@@ -53,9 +53,18 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/prathna06/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [2727-number-of-senior-citizens](https://github.com/prathna06/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 ## String
 |  |
 | ------- |
 | [2727-number-of-senior-citizens](https://github.com/prathna06/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/prathna06/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/prathna06/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->

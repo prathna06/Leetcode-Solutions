@@ -16,6 +16,3 @@ class Solution:
         while(i<count):
             nums.append(0)
             i +=1
-
-
-        

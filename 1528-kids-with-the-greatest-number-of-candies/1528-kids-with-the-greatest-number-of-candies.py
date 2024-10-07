@@ -1,9 +1,13 @@
 class Solution:
     def kidsWithCandies(self, candies: List[int], extraCandies: int) -> List[bool]:
-        arr=[]
-        for i in range(len(candies)):
-            if candies[i]+extraCandies >= max(candies):
-                arr.append(True)
+        newArr=[] 
+        highestCandy= max(candies)
+        for i in candies:    
+            if i +extraCandies >= highestCandy:
+                newArr.append(True)
             else:
-                arr.append(False)
-        return arr
+                newArr.append(False)
+        return newArr
+
+        
+

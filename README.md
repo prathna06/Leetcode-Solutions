@@ -55,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/prathna06/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/prathna06/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0238-product-of-array-except-self](https://github.com/prathna06/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/prathna06/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/prathna06/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/prathna06/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -89,5 +90,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/prathna06/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/prathna06/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->

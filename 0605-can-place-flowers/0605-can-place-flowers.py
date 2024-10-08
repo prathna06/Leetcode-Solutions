@@ -9,7 +9,6 @@ class Solution:
                 return True
             if flowerbed[0]==0 and flowerbed[1]==0:
                 count +=1
-                print("hey1")
                 flowerbed[0]="*"
                 if count >= n:
                     return count
@@ -19,7 +18,6 @@ class Solution:
             elif flowerbed[i]==0 and flowerbed[i-1]==0 and flowerbed[i+1]==0:
                 count +=1
                 flowerbed[i]="*"
-                print("hey2")
                 if count >= n:
                     return count
                 else:
@@ -28,7 +26,6 @@ class Solution:
             elif flowerbed[-1]==0 and flowerbed[-2]==0:
                 count +=1
                 flowerbed[-1]="*"
-                print("hey3")
                 if count >= n:
                     return count
                 else:

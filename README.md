@@ -133,4 +133,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/prathna06/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prathna06/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/prathna06/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/prathna06/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->

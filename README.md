@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/prathna06/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/prathna06/Leetcode-Solutions/tree/master/0443-string-compression) |
+| [1297-maximum-number-of-balloons](https://github.com/prathna06/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prathna06/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/prathna06/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2727-number-of-senior-citizens](https://github.com/prathna06/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/prathna06/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/prathna06/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [1297-maximum-number-of-balloons](https://github.com/prathna06/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 ## Design
 |  |
 | ------- |
@@ -141,4 +143,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/prathna06/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+## Counting
+|  |
+| ------- |
+| [1297-maximum-number-of-balloons](https://github.com/prathna06/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->

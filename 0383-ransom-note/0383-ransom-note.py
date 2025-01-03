@@ -15,8 +15,5 @@ class Solution:
             return True
         else:
             return False
-                
-            
-            #k-> ele
-            #mp1[k]-> value
+
                 

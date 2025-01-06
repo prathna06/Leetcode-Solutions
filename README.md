@@ -168,4 +168,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/prathna06/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/prathna06/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

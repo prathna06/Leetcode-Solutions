@@ -24,8 +24,6 @@ class Solution:
             if current is not None:
                 current = current.next
 
-        if current is None or current.next is None:
-            return head
 
         temp = current.next
 

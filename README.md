@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/prathna06/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/prathna06/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/prathna06/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/prathna06/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prathna06/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prathna06/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/prathna06/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -99,12 +100,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/prathna06/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/prathna06/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/prathna06/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prathna06/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prathna06/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prathna06/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/prathna06/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/prathna06/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/prathna06/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prathna06/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -163,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/prathna06/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/prathna06/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/prathna06/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/prathna06/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
@@ -174,4 +178,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/prathna06/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/prathna06/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->

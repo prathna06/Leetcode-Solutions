@@ -1,11 +1,16 @@
 class Solution:
     def increasingTriplet(self, nums: List[int]) -> bool:
-        val1=val2=float('inf') # so that we can find the smallest values in the array
-        for num in nums:
-            if num <= val1:
-                 val1=num
-            elif num <= val2:
-                val2=num
+        first = float('inf')
+        second = float('inf')
+
+        for n in nums:
+            if n <= first:
+                first = n 
+            elif n <= second:
+                second = n
             else:
                 return True
         return False
+
+        
+        

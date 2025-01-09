@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1392-find-the-difference-of-two-arrays](https://github.com/prathna06/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/prathna06/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/prathna06/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1833-find-the-highest-altitude](https://github.com/prathna06/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2727-number-of-senior-citizens](https://github.com/prathna06/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/prathna06/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/prathna06/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/prathna06/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [1833-find-the-highest-altitude](https://github.com/prathna06/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |
 | ------- |

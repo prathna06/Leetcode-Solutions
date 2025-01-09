@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/prathna06/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/prathna06/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/prathna06/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/prathna06/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2727-number-of-senior-citizens](https://github.com/prathna06/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/prathna06/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1297-maximum-number-of-balloons](https://github.com/prathna06/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prathna06/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/prathna06/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/prathna06/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2727-number-of-senior-citizens](https://github.com/prathna06/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/prathna06/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Two Pointers
@@ -205,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String Matching
 |  |
 | ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/prathna06/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/prathna06/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |

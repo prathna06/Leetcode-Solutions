@@ -1,16 +1,10 @@
 class Solution:
     def uniqueOccurrences(self, arr: List[int]) -> bool:
-        count=0
-        freq={}
-        lis=[]
-        for num in arr:
-            if num in freq:
-               freq[num] +=1
-            else:
-                freq[num] =1
-        print(freq)
-        for i in freq:
-            lis.append(freq[i])
-        print(lis)
-        return len(lis) == len(list(set(lis)))
-            
+        set1 = list(set(arr))
+        arr1=[]
+        for i in range(0,len(set1)):
+            arr1.append(arr.count(set1[i]))
+        if(len(set1) == len(set(arr1))):
+            return True
+        else:
+            return False

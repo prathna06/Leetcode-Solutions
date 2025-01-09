@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/prathna06/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0605-can-place-flowers](https://github.com/prathna06/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/prathna06/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/prathna06/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/prathna06/Leetcode-Solutions/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/prathna06/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/prathna06/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/prathna06/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/prathna06/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [1297-maximum-number-of-balloons](https://github.com/prathna06/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/prathna06/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/prathna06/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 ## Design
 |  |

@@ -1,14 +1,13 @@
 class Solution:
     def longestSubarray(self, nums: List[int]) -> int:
-        left =0
-        count =0
-        result =0
+        left = 0
+        k=1
         for right in range(len(nums)):
-            count +=1 if nums[right] ==0 else 0
-            while count>1:
-                count -=1 if nums[left] ==0 else 0
-                left+=1
-       
-            result =max(result,right-left)
-        return result
-       
+            if nums[right] == 0:
+                k -= 1
+            if k < 0:
+                if nums[left] == 0:
+                    k += 1 #to reset k value 
+                left += 1 #move the first pointer
+
+        return (right - left+1)-1

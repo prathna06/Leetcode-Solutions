@@ -1,11 +1,15 @@
 class Solution:
     def closeStrings(self, word1: str, word2: str) -> bool:
-        c1= Counter(word1)
-        c2=Counter(word2)
-        n1=Counter([ word for word in c1.values()])
-        n2=Counter([ word for word in c2.values()])
-        print(c1,c2,n1,n2)
-        return c1==c2 or (n1==n2 and set(word1)==set(word2))
 
+        if len(word1) != len(word2):
+            return False
+        wordBank1 = { c:0 for c in word1}
+        wordBank2 = {c:0 for c in word2}
+        for c in word1:
+            wordBank1[c] += 1
+        for c in word2:
+            wordBank2[c] += 1
+ 
+        return wordBank1.keys() == wordBank2.keys() and sorted(wordBank1.values()) == sorted(wordBank2.values())
 
-        
+       

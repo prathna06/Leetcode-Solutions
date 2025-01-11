@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/prathna06/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/prathna06/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/prathna06/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/prathna06/Leetcode-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/prathna06/Leetcode-Solutions/tree/master/1894-merge-strings-alternately) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/prathna06/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/prathna06/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/prathna06/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/prathna06/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1833-find-the-highest-altitude](https://github.com/prathna06/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
 |  |

@@ -1,13 +1,16 @@
 class Solution:
     def longestOnes(self, nums: List[int], k: int) -> int:
-        start =0
-        for end in range(len(nums)):
-            k -= 1-nums[end]
+        left = 0
+        for right in range(len(nums)):
+            if nums[right] == 0:
+                k -= 1
             if k < 0:
-                k += 1-nums[start]
-                start +=1
-        return end-start+1
-            
-        
+                if nums[left] == 0:
+                    k += 1 #to reset k value 
+                left += 1 #move the first pointer
+
+        return right - left+1
+
+
             
 

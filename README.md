@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1798-max-number-of-k-sum-pairs](https://github.com/prathna06/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/prathna06/Leetcode-Solutions/tree/master/1833-find-the-highest-altitude) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/prathna06/Leetcode-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2428-equal-row-and-column-pairs](https://github.com/prathna06/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/prathna06/Leetcode-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/prathna06/Leetcode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## String
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1635-number-of-good-pairs](https://github.com/prathna06/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/prathna06/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/prathna06/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2428-equal-row-and-column-pairs](https://github.com/prathna06/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 ## Design
 |  |
 | ------- |
@@ -238,4 +240,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/prathna06/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+## Matrix
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/prathna06/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2428-equal-row-and-column-pairs](https://github.com/prathna06/Leetcode-Solutions/tree/master/2428-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->

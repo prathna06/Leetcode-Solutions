@@ -90,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/prathna06/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/prathna06/Leetcode-Solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/prathna06/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/prathna06/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/prathna06/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/prathna06/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/0394-decode-string) |
 ## Counting
 |  |
 | ------- |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/prathna06/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->

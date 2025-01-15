@@ -149,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/prathna06/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0969-number-of-recent-calls](https://github.com/prathna06/Leetcode-Solutions/tree/master/0969-number-of-recent-calls) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -263,4 +264,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/prathna06/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/2470-removing-stars-from-a-string) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/prathna06/Leetcode-Solutions/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/prathna06/Leetcode-Solutions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->

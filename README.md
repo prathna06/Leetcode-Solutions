@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/prathna06/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/prathna06/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prathna06/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/prathna06/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/prathna06/Leetcode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/prathna06/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/prathna06/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/prathna06/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/prathna06/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/prathna06/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1635-number-of-good-pairs](https://github.com/prathna06/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |

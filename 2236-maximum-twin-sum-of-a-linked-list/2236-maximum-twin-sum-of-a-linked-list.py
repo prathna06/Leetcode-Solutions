@@ -11,10 +11,10 @@ class Solution:
         while curr is not None:
             counter += 1
             curr = curr.next
-
-        oppositeCounter = (counter//2)-1
+        middle = counter//2
+        oppositeCounter = middle-1
         for i in range(counter):
-            if i < counter//2:
+            if i < middle:
                 maxVal.append(head.val)
                 head = head.next
             else:

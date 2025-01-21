@@ -8,20 +8,21 @@ class Solution:
 
     def goodNodes(self, root: TreeNode) -> int:
         counter = 0
-        def dfs(root):
+        def dfs(root,maxNum):
             nonlocal counter
             if root is None:
                 return          
-            route.append(root.val)
-            if max(route) <= root.val:
+            
+            if maxNum <= root.val:
+                maxNum = root.val
                 counter += 1
-            dfs(root.left)
-            dfs(root.right)
-            route.pop()
+
+            dfs(root.left,maxNum)
+            dfs(root.right,maxNum)
         
         route =[]
 
-        dfs(root)
+        dfs(root,root.val)
         return counter
 
             

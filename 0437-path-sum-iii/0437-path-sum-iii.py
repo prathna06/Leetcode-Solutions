@@ -28,7 +28,7 @@
 class Solution:
     def pathSum(self, root: Optional[TreeNode], targetSum: int) -> int:
         counter = 0
-        def dfs(root,resArr,targetSum):
+        def dfs(root,resArr):
             nonlocal counter
             total = 0
             if root is None:
@@ -40,11 +40,10 @@ class Solution:
                 if total  == targetSum:
                     counter += 1
                 
-            
-            dfs(root.left,resArr,targetSum)
-            dfs(root.right,resArr,targetSum)
+            dfs(root.left,resArr)
+            dfs(root.right,resArr)
             resArr.pop()
         resArr = []
-        dfs(root,resArr,targetSum)
+        dfs(root,resArr)
         return counter
 

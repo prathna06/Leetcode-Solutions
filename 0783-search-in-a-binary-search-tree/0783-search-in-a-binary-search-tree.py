@@ -12,15 +12,14 @@ class Solution:
             if root is None:
                 return 
             if root.val == val:       
-                res = root    
-            bst(root.left)
-            bst(root.right)       
+                res = root  
+            elif root.val < val:
+                 bst(root.right)
+            elif root.val > val:
+                 bst(root.left)  
 
         if root.val == val:
             res = root
-        elif root.val < val:
-            bst(root.right)
-        elif root.val > val:
-            bst(root.left)
+        bst(root)
         return res
         

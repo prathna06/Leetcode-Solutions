@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/prathna06/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prathna06/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/prathna06/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/prathna06/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/prathna06/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/prathna06/Leetcode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/prathna06/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -207,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/prathna06/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prathna06/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/prathna06/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/prathna06/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/prathna06/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/prathna06/Leetcode-Solutions/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/prathna06/Leetcode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -313,5 +315,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/prathna06/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/prathna06/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->

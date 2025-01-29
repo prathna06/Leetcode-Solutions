@@ -250,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/prathna06/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/prathna06/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/prathna06/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/prathna06/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |

@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/prathna06/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prathna06/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/prathna06/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/prathna06/Leetcode-Solutions/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/prathna06/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/prathna06/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/prathna06/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0088-merge-sorted-array](https://github.com/prathna06/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/prathna06/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prathna06/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
+| [0274-h-index](https://github.com/prathna06/Leetcode-Solutions/tree/master/0274-h-index) |
 | [1777-determine-if-two-strings-are-close](https://github.com/prathna06/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/prathna06/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
@@ -339,4 +341,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/prathna06/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/prathna06/Leetcode-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

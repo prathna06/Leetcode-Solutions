@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/prathna06/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/prathna06/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0969-number-of-recent-calls](https://github.com/prathna06/Leetcode-Solutions/tree/master/0969-number-of-recent-calls) |
 ## Prefix Sum
@@ -181,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prathna06/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/prathna06/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/prathna06/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prathna06/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/prathna06/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
@@ -218,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/prathna06/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/prathna06/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/prathna06/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/prathna06/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/prathna06/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
@@ -313,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/prathna06/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/prathna06/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/prathna06/Leetcode-Solutions/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -329,6 +333,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/prathna06/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0450-delete-node-in-a-bst](https://github.com/prathna06/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/prathna06/Leetcode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Graph
@@ -345,4 +350,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0274-h-index](https://github.com/prathna06/Leetcode-Solutions/tree/master/0274-h-index) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/prathna06/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->

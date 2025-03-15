@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/prathna06/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/prathna06/Leetcode-Solutions/tree/master/0649-dota2-senate) |
+| [0778-reorganize-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/prathna06/Leetcode-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/prathna06/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/prathna06/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/prathna06/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0274-h-index](https://github.com/prathna06/Leetcode-Solutions/tree/master/0274-h-index) |
+| [0778-reorganize-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/prathna06/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/prathna06/Leetcode-Solutions/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/prathna06/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/prathna06/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/prathna06/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0778-reorganize-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/prathna06/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/prathna06/Leetcode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/prathna06/Leetcode-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -180,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/prathna06/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/prathna06/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/prathna06/Leetcode-Solutions/tree/master/0649-dota2-senate) |
+| [0778-reorganize-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 ## Tree
 |  |
 | ------- |
@@ -265,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/prathna06/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/prathna06/Leetcode-Solutions/tree/master/0383-ransom-note) |
+| [0778-reorganize-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 | [1297-maximum-number-of-balloons](https://github.com/prathna06/Leetcode-Solutions/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/prathna06/Leetcode-Solutions/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/prathna06/Leetcode-Solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -356,4 +361,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/prathna06/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/prathna06/Leetcode-Solutions/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->

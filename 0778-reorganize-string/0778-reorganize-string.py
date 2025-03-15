@@ -7,7 +7,6 @@ class Solution:
         new_string = ""
         for i in range(len(s)):
             keys = list(char_counts.keys())
-            print(char_counts)
             if (not new_string or new_string[-1] != keys[0]) and char_counts[keys[0]] > 0:
                 new_string += keys[0]
                 char_counts[keys[0]] -= 1

@@ -1,18 +1,21 @@
 class Solution:
     def reverseVowels(self, s: str) -> str:
-        arr=['a','e','i','o','u','A','E','I','U','O']
-        i=0
-        j=len(s)-1
-        s=list(s)
-        while(i<j):
-            if s[i]  not in arr:
-                i+=1
-            elif  s[j] not in arr:
-                j-=1
-            else:
-                s[i], s[j] = s[j], s[i]
-                i+=1
-                j-=1
+        stack = deque()
+        char_list = list(s)
 
-        return ''.join(s)
+# Modify the character at the specified index
         
+
+# Join the list back into a string
+
+        for i in s:
+            if i.lower() in ['a','e','i','o','u']:
+                stack.append(i)
+        for i in range(len(s)):
+            if s[i].lower() in ['a','e','i','o','u']:
+                char_list[i] = stack.pop()
+                
+        return "".join(char_list)
+
+
+

@@ -8,9 +8,7 @@ class Solution:
         while i < len(nums) and i < j:
             if nums[i] == 0:
                 nums.pop(i)
-                print(nums, i)
                 nums.append(0)
-                print(nums)
                 j -= 1
                 i -= 1
             i += 1
